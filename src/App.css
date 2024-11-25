@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.violet {
+  color: violet;
+}
+
+.btn {
+  background-color: white;
+  color: rebeccapurple;
+  font-size: 2em;
+  border-radius: 30px;
+}
